@@ -1,3 +1,22 @@
-* {
+html {
     background-image: url("../images/water.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
+
+body {
+    width: 95%;
+    margin: 0 auto;
+    background-color: tan;
+    text-align: center;
+}
+
+header {
+    height: 100px;
+    background-color: black;
+    color: white;
+    font-size: 45px;
+} 
+
+
